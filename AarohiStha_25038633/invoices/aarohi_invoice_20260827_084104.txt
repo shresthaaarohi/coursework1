@@ -1,0 +1,18 @@
+========================================
+       BUILDING HARDWARE STORE
+========================================
+Customer: aarohi
+Date: 2026-08-27 08:41:04
+========================================
+
+Product Name: Cement OPC
+Brand: Shivam Cement
+Unit: kg
+Quantity: 10
+Price: Rs. 12.0
+Discount: Rs. 0
+Total: Rs. 120.0
+
+Grand Total: Rs. 120.0
+
+========================================

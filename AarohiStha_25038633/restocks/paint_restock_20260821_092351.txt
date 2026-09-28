@@ -1,0 +1,17 @@
+========================================
+       BUILDING HARDWARE STORE
+========================================
+Supplier: paint
+Date: 2026-08-21 09:23:51
+========================================
+
+Product Name: Paint 20L
+Brand: Asian Paints
+Unit: quantity
+Quantity: 5
+Price: Rs. 3500.0
+Total: Rs. 17500.0
+
+Grand Total: Rs. 17500.0
+
+========================================

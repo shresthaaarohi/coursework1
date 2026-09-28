@@ -1,0 +1,5 @@
+1,Cement OPC,Shivam Cement,900,kg,12
+2,Steel Rod 10mm,Jagadamba Steel,498,quantity,700
+3,Paint 20L,Asian Paints,185,quantity,3500
+4,Sand (River),Local Supplier,4997,kg,2
+5,Bricks,Hetauda Bricks,10000,quantity,15

@@ -1,0 +1,26 @@
+========================================
+       BUILDING HARDWARE STORE
+========================================
+Customer: ram
+Date: 2026-08-21 09:36:11
+========================================
+
+Product Name: Cement OPC
+Brand: Shivam Cement
+Unit: kg
+Quantity: 2
+Price: Rs. 12.0
+Discount: Rs. 0
+Total: Rs. 24.0
+
+Product Name: Sand (River)
+Brand: Local Supplier
+Unit: kg
+Quantity: 3
+Price: Rs. 2.0
+Discount: Rs. 0
+Total: Rs. 6.0
+
+Grand Total: Rs. 30.0
+
+========================================
